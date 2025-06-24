@@ -11,6 +11,8 @@ dependencies:
     sdk: flutter
   go_router: ^15.0.0
   animate_do: ^4.2.0
+  flutter_riverpod: ^2.4.3
+
 
 dev_dependencies:
   flutter_test:

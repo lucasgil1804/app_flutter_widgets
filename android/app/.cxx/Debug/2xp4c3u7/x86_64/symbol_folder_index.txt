@@ -1,0 +1,1 @@
+/Users/lucasgil1804/Documents/Curso flutter/app_flutter_widgets/build/app/intermediates/cxx/Debug/2xp4c3u7/obj/x86_64

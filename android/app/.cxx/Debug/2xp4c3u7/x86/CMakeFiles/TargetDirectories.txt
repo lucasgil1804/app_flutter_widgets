@@ -1,0 +1,2 @@
+/Users/lucasgil1804/Documents/Curso flutter/app_flutter_widgets/android/app/.cxx/Debug/2xp4c3u7/x86/CMakeFiles/edit_cache.dir
+/Users/lucasgil1804/Documents/Curso flutter/app_flutter_widgets/android/app/.cxx/Debug/2xp4c3u7/x86/CMakeFiles/rebuild_cache.dir
